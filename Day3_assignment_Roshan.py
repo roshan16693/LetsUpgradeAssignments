@@ -18,4 +18,3 @@ for i in range(2,200):
     if is_Prime:
         print(i)
 
-print(4%3)
